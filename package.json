@@ -1,0 +1,20 @@
+{
+  "name": "simple-devops-node-app",
+  "version": "1.0.0",
+  "description": "Full-stack app for DevOps CI/CD project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoovazhaganSundarraj/simple-devops-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PoovazhaganSundarraj/simple-devops-node-app/issues"
+  },
+  "homepage": "https://github.com/PoovazhaganSundarraj/simple-devops-node-app#readme"
+}
